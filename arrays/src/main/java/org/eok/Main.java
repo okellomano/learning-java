@@ -21,4 +21,5 @@ public class Main {
         // Alternative printing
         System.out.println(Arrays.toString(rollNo));
     }
+
 }
