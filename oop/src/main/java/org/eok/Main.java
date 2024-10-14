@@ -33,6 +33,10 @@ class Student {
         this.marks = 79.9f;
     }
 
+    // calling a constructor from another constructor
+//    Student () {
+//        this (23, "Glen", 98.7f);
+//    }
     Student (int rollNo, String name, float marks){
         this.rollNo = rollNo;
         this.name = name;
